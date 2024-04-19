@@ -3,7 +3,11 @@
 required SFML 2.6.1 with Visual C++ 17 (2022)
 
 # how to play
-wsad to move
+
+wsad to move \n
+
 r to restart
+
 p to pause
+
 t to debug mode
