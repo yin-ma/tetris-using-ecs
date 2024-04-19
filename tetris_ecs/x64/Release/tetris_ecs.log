@@ -1,0 +1,28 @@
+﻿  Game.cpp
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(207,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(208,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(209,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(210,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(259,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(260,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(261,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(262,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,63): warning C4244:         with
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,63): warning C4244:         [
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,63): warning C4244:             T=float
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,63): warning C4244:         ]
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,44): warning C4244:         with
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,44): warning C4244:         [
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,44): warning C4244:             T=float
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(272,44): warning C4244:         ]
+D:\py project\tetris_ecs\tetris_ecs\Game.cpp(417,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\py project\tetris_ecs\tetris_ecs\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  17 of 692 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tetris_ecs.vcxproj -> D:\py project\tetris_ecs\tetris_ecs\x64\Release\tetris_ecs.exe
