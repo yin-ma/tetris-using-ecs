@@ -1,6 +1,6 @@
 # tetris-using-ecs
 
-required SFML 2.6.1 (with Visual C++ 17 (2022))
+required cmake version 3.26.4
 
 # how to play
 
