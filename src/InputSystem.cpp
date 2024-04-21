@@ -24,6 +24,7 @@ void InputSystem::update(std::shared_ptr<sf::RenderWindow> window, Action& actio
 				break;
 			case sf::Keyboard::R:
 				restart = true;
+				isPause = fasle;
 				break;
 			case sf::Keyboard::W:
 			case sf::Keyboard::Up:
