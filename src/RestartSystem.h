@@ -10,5 +10,5 @@ class RestartSystem
 public:
 	RestartSystem();
 
-	void restart(std::shared_ptr<EntityManager> entityManager, bool& isRestart, bool& isPause, bool& isEnd, bool& spawn);
+	void restart(std::shared_ptr<EntityManager> entityManager, bool& isRestart, bool& spawn);
 };

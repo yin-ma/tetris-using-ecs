@@ -27,6 +27,8 @@ void Game::run()
 {
 	while (m_window->isOpen())
 	{
+		// maybe make those system to friend class?
+		// because all system need to access private member of game class
 		m_lifetimeSystem.update(m_entityManager, m_action, m_isPause);
 		m_movementSystem.update(m_entityManager, m_action, m_spawn, m_islock, m_nTileRow, m_nTileCol, m_gridSize, m_keyLockDuration);
 		m_inputSystem.update(m_window, m_action, m_motionLockTime, m_isPause, m_debugMode, m_isEnd, m_restart);

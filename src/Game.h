@@ -42,6 +42,8 @@ private:
 	bool m_spawn = true;
 	bool m_restart = false;
 
+	// maybe make those system to friend class?
+	// because all system need to access private member of game class
 	SpawnSystem m_spawnSystem;
 	RenderSystem m_renderSystem;
 	ClearlineSystem m_clearlineSystem;

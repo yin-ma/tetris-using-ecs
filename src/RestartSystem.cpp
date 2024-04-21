@@ -4,7 +4,7 @@
 RestartSystem::RestartSystem() {}
 
 
-void RestartSystem::restart(std::shared_ptr<EntityManager> entityManager , bool& isRestart, bool& isPause, bool& isEnd, bool& spawn)
+void RestartSystem::restart(std::shared_ptr<EntityManager> entityManager , bool& isRestart, bool& spawn)
 {
 	if (isRestart)
 	{
