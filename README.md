@@ -2,7 +2,7 @@
 
 required cmake version 3.26.4
 
-# how to play
+### how to play
 
 wsad to move
 
