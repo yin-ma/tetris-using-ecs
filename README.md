@@ -11,3 +11,6 @@ r to restart
 p to pause
 
 t to debug mode
+
+
+![ScreenShot](https://raw.githubusercontent.com/yin-ma/tetris-using-ecs/main/assets/tetris.png)
